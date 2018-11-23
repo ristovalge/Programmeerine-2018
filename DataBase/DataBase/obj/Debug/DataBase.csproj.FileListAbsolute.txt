@@ -1,0 +1,7 @@
+c:\users\risto.valge\source\repos\DataBase\DataBase\bin\Debug\DataBase.exe.config
+c:\users\risto.valge\source\repos\DataBase\DataBase\bin\Debug\DataBase.exe
+c:\users\risto.valge\source\repos\DataBase\DataBase\bin\Debug\DataBase.pdb
+c:\users\risto.valge\source\repos\DataBase\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+c:\users\risto.valge\source\repos\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+c:\users\risto.valge\source\repos\DataBase\DataBase\obj\Debug\DataBase.exe
+c:\users\risto.valge\source\repos\DataBase\DataBase\obj\Debug\DataBase.pdb

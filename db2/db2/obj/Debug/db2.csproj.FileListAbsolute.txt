@@ -1,0 +1,7 @@
+c:\users\risto.valge\source\repos\db2\db2\bin\Debug\db2.exe.config
+c:\users\risto.valge\source\repos\db2\db2\bin\Debug\db2.exe
+c:\users\risto.valge\source\repos\db2\db2\bin\Debug\db2.pdb
+c:\users\risto.valge\source\repos\db2\db2\obj\Debug\db2.csprojAssemblyReference.cache
+c:\users\risto.valge\source\repos\db2\db2\obj\Debug\db2.csproj.CoreCompileInputs.cache
+c:\users\risto.valge\source\repos\db2\db2\obj\Debug\db2.exe
+c:\users\risto.valge\source\repos\db2\db2\obj\Debug\db2.pdb

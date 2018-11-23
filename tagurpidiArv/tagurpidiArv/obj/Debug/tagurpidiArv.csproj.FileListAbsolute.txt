@@ -1,0 +1,7 @@
+c:\users\risto.valge\source\repos\tagurpidiArv\tagurpidiArv\bin\Debug\tagurpidiArv.exe.config
+c:\users\risto.valge\source\repos\tagurpidiArv\tagurpidiArv\bin\Debug\tagurpidiArv.exe
+c:\users\risto.valge\source\repos\tagurpidiArv\tagurpidiArv\bin\Debug\tagurpidiArv.pdb
+c:\users\risto.valge\source\repos\tagurpidiArv\tagurpidiArv\obj\Debug\tagurpidiArv.csprojAssemblyReference.cache
+c:\users\risto.valge\source\repos\tagurpidiArv\tagurpidiArv\obj\Debug\tagurpidiArv.csproj.CoreCompileInputs.cache
+c:\users\risto.valge\source\repos\tagurpidiArv\tagurpidiArv\obj\Debug\tagurpidiArv.exe
+c:\users\risto.valge\source\repos\tagurpidiArv\tagurpidiArv\obj\Debug\tagurpidiArv.pdb
