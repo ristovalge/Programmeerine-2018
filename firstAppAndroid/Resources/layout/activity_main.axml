@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+	<LinearLayout
+		android:orientation="vertical"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:id="@+id/linearLayout1">
+		<TextView
+			android:text="Testime"
+			android:textAppearance="?android:attr/textAppearanceLarge"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/textView1" />
+		<Button
+			android:text="Button"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/button1" />
+		<EditText
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/editText1"
+			android:hint="Number 1" />
+		<EditText
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/editText2"
+			android:hint="Number 2" />
+		<Button
+			android:text="Calculate"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/button2" />
+		<TextView
+			android:text="Answer"
+			android:textAppearance="?android:attr/textAppearanceLarge"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/textView2" />
+		<Button
+			android:text="To Second Activity"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/button3" />
+		<Button
+			android:text="To webview activity"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/button4" />
+		<Button
+			android:text="To List"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/button5" />
+	</LinearLayout>
+</RelativeLayout>

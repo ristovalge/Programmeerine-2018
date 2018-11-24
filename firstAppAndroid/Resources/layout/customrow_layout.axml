@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="horizontal"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<ImageView
+		android:src="@android:drawable/ic_menu_gallery"
+		android:layout_width="wrap_content"
+		android:layout_height="50dp"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:id="@+id/imageView1" />
+
+
+	<TextView
+		android:text="Year"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/yeartextView1" />
+	<TextView
+		android:text="Text"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/kwtextview" />
+	<LinearLayout
+		android:orientation="vertical"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:id="@+id/linearLayout1"
+		android:textAlignment="textEnd"
+		android:layout_marginRight="8dp">
+		<TextView
+			android:text="Text"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/nametextview"
+			android:textAlignment="textEnd" 			 />
+		<TextView
+			android:text="Text"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/modeltextview"
+			android:textAlignment="textEnd" />
+	</LinearLayout>
+
+</LinearLayout>
